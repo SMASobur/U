@@ -2,3 +2,7 @@
 *.pem
 id_rsa*
 id_dsa*
+*.pem
+id_rsa*
+id_dsa*
+.env
